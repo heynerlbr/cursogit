@@ -1,3 +1,14 @@
 #div_cabecera{
     background-color: blue;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    font-size: 14px;
+}
+#div_footer{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    text-align: center;
+    font-size: 14px;
 }
